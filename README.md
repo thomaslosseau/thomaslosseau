@@ -10,6 +10,7 @@
 ## 🚀 About Me
 I’m diving back into tech to work between software, hardware, and infrastructure.  
 I love building tools that make life easier, even if it means recreating an app to fit my needs and learn the process.  
+Looking forward to interesting projects and opportunities in tech.  
 
 ---
 
